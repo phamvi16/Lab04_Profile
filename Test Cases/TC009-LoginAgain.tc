@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009-LoginAgain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12aa9808-8824-43e3-bbda-dcee7f279308</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe\r\n\r\n'</defaultValue>
+      <description></description>
+      <id>14e1a5ac-f022-423b-8b9d-df0ef1a6d7f7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword\r\n'</defaultValue>
+      <description></description>
+      <id>fe7f3f2c-0753-4525-b543-dbe050241ecf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
