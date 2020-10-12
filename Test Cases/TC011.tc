@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Login username and password success</description>
-   <name>TC001</name>
+   <description>Login success</description>
+   <name>TC011</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>36bd435a-440f-4c26-b94d-1fb479e46c91</testCaseGuid>
+   <testCaseGuid>21f1f2fe-82a0-4fbf-a53c-f683c82006a6</testCaseGuid>
    <variable>
       <defaultValue>'John Doe\r\n'</defaultValue>
       <description></description>
-      <id>a32c1c8f-91cd-4d5b-9b73-4091228616b8</id>
+      <id>e36061df-6e72-4c0b-92fa-2f77b0fb4976</id>
       <masked>false</masked>
       <name>Username</name>
    </variable>
    <variable>
       <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
       <description></description>
-      <id>8aee1939-1117-453f-aed3-9d4a1fc3ee9f</id>
+      <id>3d4a4f2a-bd77-4f77-a13a-d7982af13cdc</id>
       <masked>false</masked>
       <name>Password</name>
    </variable>
