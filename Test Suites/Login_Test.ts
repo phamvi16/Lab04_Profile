@@ -16,6 +16,27 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC001</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>909fb95d-fdfe-4635-bf45-b69843368df1</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>909fb95d-fdfe-4635-bf45-b69843368df1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>a32c1c8f-91cd-4d5b-9b73-4091228616b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>909fb95d-fdfe-4635-bf45-b69843368df1</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>8aee1939-1117-453f-aed3-9d4a1fc3ee9f</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>125f2618-2672-4769-9e4d-78bd32243bad</guid>
